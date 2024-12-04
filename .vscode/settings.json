@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "avcodec.h": "c"
+        "mdx": "markdown",
+        "avcodec.h": "c",
+        "audio_fifo.h": "c"
     }
 }
